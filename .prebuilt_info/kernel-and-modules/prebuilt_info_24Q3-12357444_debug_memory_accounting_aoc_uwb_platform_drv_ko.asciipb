@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12357444"
+    target: "shusky_debug_memory_accounting"
+    source_file: "aoc_uwb_platform_drv.ko"
+  }
+  dest_file: "24Q3-12357444/debug_memory_accounting/aoc_uwb_platform_drv.ko"
+  version: "12357444"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/shusky-kernels/5.15"
+}

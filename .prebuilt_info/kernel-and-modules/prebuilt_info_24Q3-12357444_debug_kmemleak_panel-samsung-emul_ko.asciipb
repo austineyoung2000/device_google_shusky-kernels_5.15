@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12357444"
+    target: "shusky_debug_kmemleak"
+    source_file: "panel-samsung-emul.ko"
+  }
+  dest_file: "24Q3-12357444/debug_kmemleak/panel-samsung-emul.ko"
+  version: "12357444"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/shusky-kernels/5.15"
+}

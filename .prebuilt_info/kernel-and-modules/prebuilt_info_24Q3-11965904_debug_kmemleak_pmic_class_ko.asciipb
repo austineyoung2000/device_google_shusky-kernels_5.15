@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "11965904"
+    target: "shusky_debug_kmemleak"
+    source_file: "pmic_class.ko"
+  }
+  dest_file: "24Q3-11965904/debug_kmemleak/pmic_class.ko"
+  version: "11965904"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/shusky-kernels/5.15"
+}

@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "11965904"
+    target: "shusky_16k"
+    source_file: "panel-samsung-s6e3fc3-p10.ko"
+  }
+  dest_file: "24Q3-11965904/16kb/panel-samsung-s6e3fc3-p10.ko"
+  version: "11965904"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/shusky-kernels/5.15"
+}
