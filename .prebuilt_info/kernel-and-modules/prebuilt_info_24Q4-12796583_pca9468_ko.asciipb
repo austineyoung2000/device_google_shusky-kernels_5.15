@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12796583"
+    target: "shusky"
+    source_file: "pca9468.ko"
+  }
+  dest_file: "24Q4-12796583/pca9468.ko"
+  version: "12796583"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/shusky-kernels/5.15"
+}

@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12796583"
+    target: "shusky_debug_memory"
+    source_file: "dbgcore-dump.ko"
+  }
+  dest_file: "24Q4-12796583/debug_memory/dbgcore-dump.ko"
+  version: "12796583"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/shusky-kernels/5.15"
+}
